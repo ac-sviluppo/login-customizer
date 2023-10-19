@@ -1,0 +1,42 @@
+.login h1 a{
+	background-image: url('https://fotografo.ac-sviluppo.it/wp-content/uploads/2023/01/cropped-worst-photography-new.png')!important;
+}
+
+body{
+	background-image: url(https://fotografo.ac-sviluppo.it/wp-content/uploads/2022/12/puente-orizzontale-2000x1200-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#language-switcher{
+	display:none;
+}
+
+#backtoblog a{
+	color:white!important;
+}
+
+#nav a {
+	color:white!important;
+}
+
+#loginform{
+	background: none;
+	border:none;
+	box-shadow:none;
+	border-bottom: 1px solid white;
+}
+
+#loginform label{
+	color:white!important;
+}
+
+#wp-submit{
+	background-color:orange!important;
+	border:none!important;
+}
+
+.dashicons-visibility::before{
+	color: orange!important;
+}
