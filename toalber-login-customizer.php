@@ -3,7 +3,7 @@
 * Plugin Name: Login Customizer & Open Registration
 * Plugin URI:  https://ac-sviluppo.it/
 * Description: This plugin lets you customize the login page, the login form, enables open registration for subscribers and create buttons for subscriber login / logout. 
-* Version:     1.0.14
+* Version:     1.0.15
 * Author:      Alberto Carenini (Toalber)
 * License:     GPL-2.0+
 * Author URI:  https://ac-sviluppo.it/
